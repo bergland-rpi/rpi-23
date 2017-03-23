@@ -1,7 +1,7 @@
 brightness=250
 R=255
-G=178
-B=102
+G=128
+B=0
 W=0
 LED_COUNT=24
 onTime=9
